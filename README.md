@@ -38,3 +38,5 @@ requests – for sending HTTP requests
 Entrez E-utilities API – to fetch PubMed research data
 (LLM) – used to plan, design, and debug this project
 results.csv --- output
+
+https://github.com/Gopiratnamkandula/getpapers 

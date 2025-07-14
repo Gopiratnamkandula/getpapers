@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "getpapers"
+version = "0.1.0"
+description = "Fetch research papers from PubMed"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
